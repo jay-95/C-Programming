@@ -1,0 +1,19 @@
+﻿빌드 시작: 2017-07-22 오후 9:01:27
+     1>2 노드의 "C:\Users\Lee\Desktop\에스덱 18기 이원재 족보\2013 1학년\2학기\C언어_안도식\확인\확인\확인.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\확인.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "확인.c"
+         확인.c
+     1>c:\users\lee\desktop\에스덱 18기 이원재 족보\2013 1학년\2학기\c언어_안도식\확인\확인\확인.c(2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+     1>c:\users\lee\desktop\에스덱 18기 이원재 족보\2013 1학년\2학기\c언어_안도식\확인\확인\확인.c(3): error C2054: ' ' 다음에 '('가 필요합니다.
+     1>c:\users\lee\desktop\에스덱 18기 이원재 족보\2013 1학년\2학기\c언어_안도식\확인\확인\확인.c(4): error C2085: 'main' : 정식 매개 변수 목록에 없습니다.
+     1>c:\users\lee\desktop\에스덱 18기 이원재 족보\2013 1학년\2학기\c언어_안도식\확인\확인\확인.c(4): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>c:\users\lee\desktop\에스덱 18기 이원재 족보\2013 1학년\2학기\c언어_안도식\확인\확인\확인.c(9): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+     1>c:\users\lee\desktop\에스덱 18기 이원재 족보\2013 1학년\2학기\c언어_안도식\확인\확인\확인.c(15): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+     1>c:\users\lee\desktop\에스덱 18기 이원재 족보\2013 1학년\2학기\c언어_안도식\확인\확인\확인.c(16): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+     1>"C:\Users\Lee\Desktop\에스덱 18기 이원재 족보\2013 1학년\2학기\C언어_안도식\확인\확인\확인.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.52
